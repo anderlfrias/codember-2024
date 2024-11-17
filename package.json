@@ -1,0 +1,12 @@
+{
+  "name": "codember-challenge-2024",
+  "version": "1.0.0",
+  "description": "Soluciones a los retos de Codember de Midudev. Resueltos con JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Frias",
+  "license": "ISC"
+}
